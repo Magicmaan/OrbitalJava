@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="78ce90cf-8a27-48fb-9591-6e18ea4caa60" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrbitalJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App/Backup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App/Settings/DefaultUserSettings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App/Settings/Settings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App/WindowFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI/ContextBar/ContextBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI/ContextBar/MenuLayout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI/DefaultPopupWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI/GUIHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI/SideBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI/Viewport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI/ViewportBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI/ViewportImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI/Widgets/ColourPickerWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI/Widgets/LayersWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI/Widgets/PaletteWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/build.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2lLrdA61JFDWPn7JXqmKLDSXuet" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MTConfigurable&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78ce90cf-8a27-48fb-9591-6e18ea4caa60" name="Changes" comment="" />
+      <created>1724970286076</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724970286076</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="app.properties" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
