@@ -5,31 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78ce90cf-8a27-48fb-9591-6e18ea4caa60" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OrbitalJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App/Backup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App/Settings/DefaultUserSettings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App/Settings/Settings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App/WindowFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUI/ContextBar/ContextBar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUI/ContextBar/MenuLayout.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUI/DefaultPopupWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUI/GUIHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUI/SideBar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUI/Viewport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUI/ViewportBar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUI/ViewportImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUI/Widgets/ColourPickerWidget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUI/Widgets/LayersWidget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUI/Widgets/PaletteWidget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI/Popup/NewFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/App/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App/CustomTitleBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/App/CustomTitleBar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App/WindowFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/App/WindowFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GUI/ContextBar/ContextBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUI/ContextBar/ContextBar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GUI/DefaultPopupWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUI/Popup/DefaultPopupWindow.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -49,6 +32,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2lLrdA61JFDWPn7JXqmKLDSXuet" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">

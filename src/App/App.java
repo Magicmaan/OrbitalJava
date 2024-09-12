@@ -89,7 +89,7 @@ public class App {
                                               Integer.parseInt(Settings.getInstance().getAppSetting("height")));
 
         windowFrame = new WindowFrame();
-
+        windowFrame.setLocation(100,100);
 
         /**Create the main Window*/
         //window_frame = new JFrame("My First GUI");

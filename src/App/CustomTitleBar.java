@@ -16,7 +16,7 @@ public class CustomTitleBar {
     public CustomTitleBar(){
         titleBar = new JPanel();
         titleBar.setBackground(Color.GREEN);
-        titleBar.setPreferredSize(new Dimension(800, Integer.parseInt(Settings.getInstance().getAppSetting("titleBarHeight"))));
+        titleBar.setPreferredSize(new Dimension(800, 25));
         titleBar.setAlignmentX(JPanel.LEFT_ALIGNMENT);
         titleBar.setLayout(new BoxLayout(titleBar,BoxLayout.X_AXIS));
 
